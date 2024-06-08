@@ -3,3 +3,13 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
 }
+
+.form-control {
+
+  height: 70px;
+}
+
+label {
+
+  font-size: x-large;
+}
